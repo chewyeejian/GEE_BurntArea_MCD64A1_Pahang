@@ -1,3 +1,7 @@
+# Reference 
+[3]	Chew, Y. J., Ooi, S. Y., & Pang, Y. H. 2023. MCD64A1 Burnt Area Dataset Assessment using Sentinel-2 and Landsat-8 on Google Earth Engine: A Case Study in Rompin, Pahang in Malaysia. 2023 IEEE 13th Symposium on Computer Applications & Industrial Electronics (ISCAIE), pp. 38–43. https://doi.org/10.1109/ISCAIE57739.2023.10165382
+
+
 # MCD64A1 Burnt Area Dataset Assessment using Sentinel-2 and Landsat-8 on Google Earth  Engine: A Case Study in Rompin, Pahang in Malaysia 
 https://code.earthengine.google.com/78e452fa2d816f95e3fb4e8191c9b64f
 
